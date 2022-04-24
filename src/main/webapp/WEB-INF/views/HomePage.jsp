@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +10,9 @@
 	rel="stylesheet">
 </head>
 <body>
-	<h1 style="color: darkblue; text-align: center;">Welcome to Spring Web-MVC Using Jenkins...!</h1>
-	<h1 style="text-align: center;"><a href="home" class="btn btn-danger">GOTO HOME PAGE</a></h1>
+	<div style="text-align: center; color: red	;">
+		<h1>Thank You for Visiting....!</h1>
+		<h1><a href="welcome" class="btn btn-success">GET JENKINS MSG</a></h1>
+	</div>
 </body>
 </html>
